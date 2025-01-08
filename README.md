@@ -130,7 +130,8 @@ How do I handle Updates ? First of all you will need to go to your GitHub Repo a
 
 ## Render
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/BONTACE/MAMMAMIA%5d(https:/render.com/deploy?repo=https://github.com/BONTACE/MAMMAMIA)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/BontAce/MammaMia%5d(https:/render.com/deploy?repo=https://github.com/BontAce/MammaMia)
+
 
   
 
